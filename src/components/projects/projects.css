@@ -24,12 +24,24 @@
     text-align: left;
 }
 
+.projectImg{
+    width: 10vw;
+    height: 10vh;
+}
+
 .projectItem{
     display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 4vw;
     margin: 1rem;
     padding: 1.5rem 2rem;
     border-radius: 0.5rem;
     background: rgb(50, 50, 50);
+}
+
+.projectLink{
+   color: white;
 }
 
 
@@ -52,6 +64,19 @@
     .skillBarImg{
         height: 2.25rem;
         width: 2.25rem;
+    }
+    .projectText>h2 {
+        font-size: 5vw;
+    }
+}
+
+@media screen and (max-width:500px){
+
+    .projectText>p {
+        font-size: 1.5vh;
+    }
+    .projectImg{
+        display: none;
     }
     .projectText>h2 {
         font-size: 5vw;
