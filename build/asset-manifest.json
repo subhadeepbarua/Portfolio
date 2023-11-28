@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38edef4a.css",
+    "main.js": "/static/js/main.ccbf1e3d.js",
+    "static/media/me.png": "/static/media/me.5a376b9b1c8316376338.png",
+    "static/media/github.png": "/static/media/github.a1714431baaa02a138f7.png",
+    "static/media/call.png": "/static/media/call.c9d3bbf93d4f2f8ea8c4.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.1cdc6dc37fe38a6ecde2.png",
+    "static/media/POS_Logo.png": "/static/media/POS_Logo.8aa56ed2f45b2f1a954b.png",
+    "static/media/linkedIn.png": "/static/media/linkedIn.68819d092f0b29402737.png",
+    "static/media/BILL_Logo.png": "/static/media/BILL_Logo.b039c5de3fb3d4bdddac.png",
+    "static/media/SAIL_Logo.png": "/static/media/SAIL_Logo.8b23f0820063d08c8074.png",
+    "static/media/twitter.png": "/static/media/twitter.b16a53a051eba46d821d.png",
+    "static/media/ui-design.png": "/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "index.html": "/index.html",
+    "main.38edef4a.css.map": "/static/css/main.38edef4a.css.map",
+    "main.ccbf1e3d.js.map": "/static/js/main.ccbf1e3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38edef4a.css",
+    "static/js/main.ccbf1e3d.js"
+  ]
+}
