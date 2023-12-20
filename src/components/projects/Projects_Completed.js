@@ -18,7 +18,7 @@ const Projects = () => {
           <div className="projectText">
             <h2><a className="projectLink" rel="noreferrer" href='https://celadon-brioche-879672.netlify.app/' target="_blank">Book Reccommendation </a></h2>
             <p>
-              Book Reccommendation APP for suggesting books based on user's profile and plot preference
+              Book Reccommendation APP for suggesting books based on user's profile and plot preference using text embedding search. 
             </p>
             <p>
               {" "}
